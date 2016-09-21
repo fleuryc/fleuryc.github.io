@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Clément Fleury
+description: Clément Fleury
+favicon: /assets/img/favicon.ico
+baseurl: https://fleuryc.github.io
+url: https://fleuryc.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-41186741-1
 
 # Build settings
 markdown: kramdown
@@ -14,59 +14,44 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Clément Fleury
+  title: Full stack Web Developer & DevOps
+  address: Paris, France
+  email: clement.fleury@gmail.com
+  link: http://clementfleury.me
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: fleuryc
+  linkedin: clementfleury
+  twitter: fleurycassets/img/android-chrome-192x192.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Alter Solutions Engineering
+      location: Versailles, France
+      title: Senior Full Stack Web Developer, Project Manager, Team Leader, DevOps
+      started: 2011
+      duration: (2011 - Present)
+      description: I do many things...
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: ENSIMAG (Ecole Nationale Supérieure d'Informatique et Mathématiques appliquées)
+      location: Grenoble, France
+      degree: MS (Master of Science)
+      major: Information, Interaction & Intelligence
+      started: 2003
+      duration: (2003 - 2006)
+      description: I've learn many things...
   languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Proficient
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: German
+      proficiency: Limited
   programmingSkills:
     - skill1:
       name: HTML
